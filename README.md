@@ -1,11 +1,9 @@
 <div align="center">
 
 # BatchOfuscator
-# [Download Releases](https://github.com/MateAGYT/CliToApp/releases)
+# [Download Releases](https://github.com/MateAGYT/BatchOfuscator/releases)
 
 **A modular, Python-powered Windows Batch and PowerShell obfuscation and deobfuscation laboratory featuring automated signature detection, multi-layered wrapping, and a dark animated CustomTkinter interface.**
-
-<img src="https://files.catbox.moe/vuhaid.png" width="500" />
 
 ![Language](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
